@@ -55,3 +55,13 @@ Discord account with access to create bots and manage servers.
 **Support**
 
 If you encounter any issues or have questions about ExiKeys, feel free to create an issue in this repository. You can also contact me on discord at @exibaby for further assistance.
+
+![image](https://github.com/exibaby/DiscordLicenseSystem/assets/103851315/b1504320-13d8-49eb-b9f1-d6a7df225e1b)
+
+![image](https://github.com/exibaby/DiscordLicenseSystem/assets/103851315/fb37ca76-67ec-42cd-961c-d074cc759e3c)
+
+![image](https://github.com/exibaby/DiscordLicenseSystem/assets/103851315/fb963eca-cf0e-4827-81f7-466dfa87db48)
+
+![image](https://github.com/exibaby/DiscordLicenseSystem/assets/103851315/397277f2-faf6-4df4-abbd-5c0e5fd779f5)
+
+![image](https://github.com/exibaby/DiscordLicenseSystem/assets/103851315/5307cfbd-7369-4059-9a1f-320aaaed0a4c)
